@@ -1,0 +1,64 @@
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\bin\Debug\net8.0\appsettings.json
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\bin\Debug\net8.0\LISTA_6.exe
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\bin\Debug\net8.0\LISTA_6.deps.json
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\bin\Debug\net8.0\LISTA_6.runtimeconfig.json
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\bin\Debug\net8.0\LISTA_6.dll
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\bin\Debug\net8.0\LISTA_6.pdb
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.csproj.AssemblyReference.cache
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.AssemblyInfoInputs.cache
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.AssemblyInfo.cs
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.csproj.CoreCompileInputs.cache
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets\msbuild.LISTA_6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets\msbuild.build.LISTA_6.props
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LISTA_6.props
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LISTA_6.props
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\scopedcss\bundle\LISTA_6.styles.css
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.csproj.Up2Date
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.dll
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\refint\LISTA_6.dll
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.pdb
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.genruntimeconfig.cache
+C:\Users\Cliente RH.com\source\repos\LISTA_6\LISTA_6\obj\Debug\net8.0\ref\LISTA_6.dll
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\bin\Debug\net8.0\appsettings.json
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\bin\Debug\net8.0\LISTA_6.exe
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\bin\Debug\net8.0\LISTA_6.deps.json
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\bin\Debug\net8.0\LISTA_6.runtimeconfig.json
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\bin\Debug\net8.0\LISTA_6.dll
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\bin\Debug\net8.0\LISTA_6.pdb
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.csproj.AssemblyReference.cache
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.AssemblyInfoInputs.cache
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.AssemblyInfo.cs
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.csproj.CoreCompileInputs.cache
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets\msbuild.LISTA_6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets\msbuild.build.LISTA_6.props
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LISTA_6.props
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LISTA_6.props
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\scopedcss\bundle\LISTA_6.styles.css
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.csproj.Up2Date
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.dll
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\refint\LISTA_6.dll
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.pdb
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\LISTA_6.genruntimeconfig.cache
+C:\Users\Ranielly\Downloads\LISTA_6\LISTA_6\LISTA_6\obj\Debug\net8.0\ref\LISTA_6.dll

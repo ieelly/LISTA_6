@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "LISTA_6.Controllers.PessoaController",
+    "Method": "Adicionar",
+    "RelativePath": "Api/Adicionar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pessoa",
+        "Type": "LISTA_6.Models.Pessoa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LISTA_6.Controllers.PessoaController",
+    "Method": "BuscarCpf",
+    "RelativePath": "Api/Buscar Por CPF",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LISTA_6.Controllers.PessoaController",
+    "Method": "BuscarNome",
+    "RelativePath": "Api/Buscar Por Nome",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LISTA_6.Controllers.PessoaController",
+    "Method": "MostrarIMCBom",
+    "RelativePath": "Api/Mostrar Lista IMC bom",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LISTA_6.Controllers.PessoaController",
+    "Method": "MostrarLista",
+    "RelativePath": "Api/MostrarLista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LISTA_6.Controllers.PessoaController",
+    "Method": "Deletar",
+    "RelativePath": "Api/Remover",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

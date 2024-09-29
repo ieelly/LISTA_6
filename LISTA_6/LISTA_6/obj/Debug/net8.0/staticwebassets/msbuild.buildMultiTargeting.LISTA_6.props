@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LISTA_6.props" />
+</Project>
